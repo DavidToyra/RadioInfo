@@ -1,0 +1,24 @@
+<sr>
+    <copyright>Copyright Sveriges Radio 2012. All rights reserved.</copyright>
+    ...
+    <schedule>
+        ...
+        <scheduledepisode>
+            <episodeid>22441</episodeid>
+            <title>Ekonyheter </title>
+            <starttimeutc>2012-09-19T04:00:00Z</starttimeutc>
+            <endtimeutc>2012-09-19T04:03:00Z</endtimeutc>
+            <program id="83" name="Ekot" />
+        </scheduledepisode>
+        <scheduledepisode>
+            <episodeid>128761</episodeid>
+            <title>P3 Musik</title>
+            <starttimeutc>2012-09-19T04:05:00Z</starttimeutc>
+            <endtimeutc>2012-09-19T04:30:00Z</endtimeutc>
+            <program id="4323" name="P3 Musik" />
+            <imageurl>http://sverigesradio.se/sida/images/4835/3650649_2048_1152.jpg?preset=api-default-square</imageurl>
+            <imageurltemplate>http://sverigesradio.se/sida/images/4835/3650649_2048_1152.jpg</imageurltemplate>
+        </scheduledepisode>
+        ...
+    </schedule>
+</sr>

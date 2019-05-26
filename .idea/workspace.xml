@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RadioInfo:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="705e264a-2e9f-4a6d-ab3d-96814afd02a4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/view/RadioGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-750">
+              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/Main">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>Main</OriginalElement>
+              <nodes>
+                <node x="0.0" y="0.0">Main</node>
+              </nodes>
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="-537.5" y="-18.5" />
+              <SelectedNodes>
+                <node>Main</node>
+              </SelectedNodes>
+              <Categories />
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Channel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/ParseScheduleXml.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1695">
+              <caret line="119" column="56" selection-start-line="119" selection-start-column="56" selection-end-line="119" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/ParseChannelXml.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#2984#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://Flash/">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>Flash</ID>
+              <OriginalElement />
+              <nodes />
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Properties</Category>
+                <Category>Methods</Category>
+                <Category>Constructors</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>PRIVATE</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JavaScript-modules-diagram/C:/Users/david/IdeaProjects/RadioInfo/src/model;C:/Users/david/IdeaProjects/RadioInfo/src/view;C:/Users/david/IdeaProjects/RadioInfo/src/controller;">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JavaScript-modules-diagram</ID>
+              <OriginalElement>$PROJECT_DIR$/src/model;C:/Users/david/IdeaProjects/RadioInfo/src/view;C:/Users/david/IdeaProjects/RadioInfo/src/controller;</OriginalElement>
+              <nodes />
+              <notes />
+              <edges />
+              <settings layout="Hierarchic Group" zoom="0.9" x="176.1111111111111" y="224.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>All</Category>
+              </Categories>
+              <VISIBILITY>Details</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/model">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>model</OriginalElement>
+              <nodes>
+                <node x="593.1785714285716" y="808.0">controller.Controller</node>
+                <node x="668.442674512987" y="542.0">view.RadioGUI</node>
+                <node x="875.1391030844155" y="284.0">model.TableModel</node>
+                <node x="352.375" y="273.0">model.Channel</node>
+                <node x="367.4374999999998" y="0.0">model.RadioProgram</node>
+                <node x="10.5" y="284.0">model.ParseScheduleXml</node>
+                <node x="108.5" y="564.0">model.RadioModel</node>
+                <node x="366.67857142857144" y="441.0">model.ParseChannelXml</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="controller.Controller" target="model.RadioProgram">
+                  <point x="96.0" y="-70.0" />
+                  <point x="801.1785714285716" y="788.0" />
+                  <point x="1092.6391030844156" y="788.0" />
+                  <point x="1092.6391030844156" y="203.0" />
+                  <point x="544.0284090909089" y="203.0" />
+                  <point x="84.09090909090907" y="91.5" />
+                </edge>
+                <edge source="model.RadioModel" target="model.ParseChannelXml">
+                  <point x="84.37499999999994" y="-81.0" />
+                  <point x="417.87499999999994" y="522.0" />
+                  <point x="430.67857142857144" y="522.0" />
+                  <point x="-64.0" y="25.5" />
+                </edge>
+                <edge source="controller.Controller" target="model.Channel">
+                  <point x="-32.0" y="-70.0" />
+                  <point x="673.1785714285716" y="788.0" />
+                  <point x="657.942674512987" y="788.0" />
+                  <point x="657.942674512987" y="421.0" />
+                  <point x="735.8035714285714" y="421.0" />
+                  <point x="139.42857142857144" y="59.0" />
+                </edge>
+                <edge source="controller.Controller" target="model.RadioModel">
+                  <point x="-64.0" y="-70.0" />
+                  <point x="641.1785714285716" y="778.0" />
+                  <point x="445.99999999999994" y="778.0" />
+                  <point x="112.49999999999994" y="81.0" />
+                </edge>
+                <edge source="model.RadioModel" target="model.RadioProgram">
+                  <point x="-196.87500000000006" y="-81.0" />
+                  <point x="136.62499999999994" y="522.0" />
+                  <point x="0.0" y="522.0" />
+                  <point x="0.0" y="213.0" />
+                  <point x="375.84659090909076" y="213.0" />
+                  <point x="-84.09090909090907" y="91.5" />
+                </edge>
+                <edge source="view.RadioGUI" target="model.RadioProgram">
+                  <point x="75.74999999999997" y="-103.0" />
+                  <point x="895.692674512987" y="522.0" />
+                  <point x="864.6391030844155" y="522.0" />
+                  <point x="864.6391030844155" y="233.0" />
+                  <point x="493.5738636363634" y="233.0" />
+                  <point x="33.636363636363626" y="91.5" />
+                </edge>
+                <edge source="model.RadioModel" target="model.Channel">
+                  <point x="28.124999999999943" y="-81.0" />
+                  <point x="361.62499999999994" y="522.0" />
+                  <point x="348.3192302489176" y="522.0" />
+                  <point x="348.3192302489176" y="421.0" />
+                  <point x="387.2321428571429" y="421.0" />
+                  <point x="-209.1428571428571" y="59.0" />
+                </edge>
+                <edge source="model.ParseChannelXml" target="model.Channel">
+                  <point x="0.0" y="-25.5" />
+                  <point x="494.67857142857144" y="421.0" />
+                  <point x="526.6607142857143" y="421.0" />
+                  <point x="-69.71428571428567" y="59.0" />
+                </edge>
+                <edge source="view.RadioGUI" target="model.Channel">
+                  <point x="-75.75" y="-103.0" />
+                  <point x="744.192674512987" y="522.0" />
+                  <point x="785.4739921536794" y="522.0" />
+                  <point x="785.4739921536794" y="421.0" />
+                  <point x="805.5178571428571" y="421.0" />
+                  <point x="209.1428571428571" y="59.0" />
+                </edge>
+                <edge source="model.RadioModel" target="model.ParseScheduleXml">
+                  <point x="-84.37500000000006" y="-81.0" />
+                  <point x="249.12499999999994" y="512.0" />
+                  <point x="168.93749999999977" y="512.0" />
+                  <point x="168.93749999999977" y="421.0" />
+                  <point x="240.75" y="421.0" />
+                  <point x="76.75" y="48.0" />
+                </edge>
+                <edge source="model.TableModel" target="model.RadioProgram">
+                  <point x="-51.75" y="-48.0" />
+                  <point x="926.8891030844155" y="223.0" />
+                  <point x="510.39204545454527" y="223.0" />
+                  <point x="50.45454545454544" y="91.5" />
+                </edge>
+                <edge source="model.Channel" target="model.RadioProgram">
+                  <point x="-122.0" y="-59.0" />
+                  <point x="474.375" y="253.0" />
+                  <point x="459.9374999999998" y="253.0" />
+                  <point x="0.0" y="91.5" />
+                </edge>
+                <edge source="model.ParseScheduleXml" target="model.RadioProgram">
+                  <point x="0.0" y="-48.0" />
+                  <point x="164.0" y="233.0" />
+                  <point x="409.4829545454544" y="233.0" />
+                  <point x="-50.45454545454544" y="91.5" />
+                </edge>
+                <edge source="controller.Controller" target="view.RadioGUI">
+                  <point x="0.0" y="-70.0" />
+                  <point x="705.1785714285716" y="788.0" />
+                  <point x="718.942674512987" y="788.0" />
+                  <point x="-101.0" y="103.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="31.88888888888914" y="243.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Properties</Category>
+                <Category>Inner Classes</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/ChannelJlistListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/RadioProgram.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#0#1569#0" expanded="true" />
+                <element signature="e#1632#1633#0" expanded="true" />
+                <element signature="e#1678#1679#0" expanded="true" />
+                <element signature="e#1714#1715#0" expanded="true" />
+                <element signature="e#1748#1749#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/model/XMLParser.java" />
+        <option value="$PROJECT_DIR$/src/model/ParseProgramXml.java" />
+        <option value="$PROJECT_DIR$/src/model/Episode.java" />
+        <option value="$PROJECT_DIR$/src/view/RadioFrame.java" />
+        <option value="$PROJECT_DIR$/src/view/RadioMenu.java" />
+        <option value="$PROJECT_DIR$/src/view/SchedulePanel.java" />
+        <option value="$PROJECT_DIR$/src/controller/TableMenuListener.java" />
+        <option value="$PROJECT_DIR$/src/controller/RefreshMenuListener.java" />
+        <option value="$PROJECT_DIR$/src/controller/TimeUpdateWorker.java" />
+        <option value="$PROJECT_DIR$/src/view/ChannelListPanel.java" />
+        <option value="$PROJECT_DIR$/src/view/RadioMenuBar.java" />
+        <option value="$PROJECT_DIR$/src/model/TableModel.java" />
+        <option value="$PROJECT_DIR$/src/model/Channel.java" />
+        <option value="$PROJECT_DIR$/src/controller/ChannelMenuListener.java" />
+        <option value="$PROJECT_DIR$/src/model/RadioModel.java" />
+        <option value="$PROJECT_DIR$/src/controller/StartWorker.java" />
+        <option value="$PROJECT_DIR$/Tests/xmlTest.xml" />
+        <option value="$PROJECT_DIR$/Tests/model/ChannelTest.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/Tests/model/ParseChannelsTest.java" />
+        <option value="$PROJECT_DIR$/Tests/badChannelXml.xml" />
+        <option value="$PROJECT_DIR$/Tests/channelXml.xml" />
+        <option value="$PROJECT_DIR$/Tests/episodeXml.xml" />
+        <option value="$PROJECT_DIR$/Tests/ParseEpsiodesTest.java" />
+        <option value="$PROJECT_DIR$/Tests/badChannelFormatXml.xml" />
+        <option value="$PROJECT_DIR$/Tests/ParseChannelsTest.java" />
+        <option value="$PROJECT_DIR$/src/view/TablePanel.java" />
+        <option value="$PROJECT_DIR$/src/model/ParseScheduleXml.java" />
+        <option value="$PROJECT_DIR$/src/controller/XmlParseWorker.java" />
+        <option value="$PROJECT_DIR$/src/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/model/ParseChannelXml.java" />
+        <option value="$PROJECT_DIR$/src/controller/TableListener.java" />
+        <option value="$PROJECT_DIR$/src/controller/AutomaticRefresher.java" />
+        <option value="$PROJECT_DIR$/src/controller/ChannelJlistListener.java" />
+        <option value="$PROJECT_DIR$/src/view/RadioGUI.java" />
+        <option value="$PROJECT_DIR$/src/model/RadioProgram.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RadioInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RadioInfo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RadioInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RadioInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RadioInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RadioInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RadioInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RadioInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="RadioInfo_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RadioInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RadioInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RadioInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RadioInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RadioInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RadioInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RadioInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RadioInfo" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RadioInfo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548864368882" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tests" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="model" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="RadioInfo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChannelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RadioInfo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.ChannelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseChannelsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RadioInfo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParseChannelsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseChannelsTest.parseConstructorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RadioInfo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParseChannelsTest" />
+      <option name="METHOD_NAME" value="parseConstructorTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParseEpsiodesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RadioInfo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParseEpsiodesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ChannelTest" />
+      <item itemvalue="JUnit.ParseChannelsTest" />
+      <item itemvalue="JUnit.ParseChannelsTest.parseConstructorTest" />
+      <item itemvalue="JUnit.ParseEpsiodesTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ParseChannelsTest" />
+        <item itemvalue="JUnit.ParseEpsiodesTest" />
+        <item itemvalue="JUnit.ParseChannelsTest.parseConstructorTest" />
+        <item itemvalue="JUnit.ChannelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="705e264a-2e9f-4a6d-ab3d-96814afd02a4" name="Default Changelist" comment="" />
+      <created>1547752964852</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547752964852</updated>
+      <workItem from="1548845957357" duration="12700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ParseEpsiodesTest - 2019.01.30 at 13h 22m 58s.xml">
+      <configuration name="ParseEpsiodesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseEpsiodesTest - 2019.01.30 at 13h 24m 19s.xml">
+      <configuration name="ParseEpsiodesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseEpsiodesTest - 2019.01.30 at 13h 25m 01s.xml">
+      <configuration name="ParseEpsiodesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseEpsiodesTest - 2019.01.30 at 13h 25m 57s.xml">
+      <configuration name="ParseEpsiodesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseEpsiodesTest - 2019.01.30 at 13h 26m 35s.xml">
+      <configuration name="ParseEpsiodesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseEpsiodesTest - 2019.01.30 at 13h 27m 10s.xml">
+      <configuration name="ParseEpsiodesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseEpsiodesTest - 2019.01.30 at 13h 29m 30s.xml">
+      <configuration name="ParseEpsiodesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseEpsiodesTest - 2019.01.30 at 13h 30m 43s.xml">
+      <configuration name="ParseEpsiodesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseChannelsTest - 2019.01.30 at 13h 30m 48s.xml">
+      <configuration name="ParseChannelsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ParseChannelsTest - 2019.01.30 at 13h 33m 37s.xml">
+      <configuration name="ParseChannelsTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12700000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.13113007" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Docker" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3281412" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32952183" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.031152649" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32952183" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/javax/swing/JMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1037" selection-start-line="1037" selection-end-line="1037" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="900" selection-start-line="900" selection-end-line="900" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/RadioMenuBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/TimeUpdateWorker.java" />
+    <entry file="file://$PROJECT_DIR$/src/controller/RefreshMenuListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/controller/TableMenuListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/model/Episode.java" />
+    <entry file="file://$PROJECT_DIR$/src/controller/StartWorker.java" />
+    <entry file="file://$PROJECT_DIR$/Tests/model/ChannelTest.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/RadioInfo/Main.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/SchedulePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/view">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>view</OriginalElement>
+          <nodes>
+            <node x="" y="">view.RadioGUI</node>
+            <node x="" y="">view.RadioMenuBar</node>
+            <node x="" y="">view.TablePanel</node>
+            <node x="" y="">view.ChannelListPanel</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="124.0" y="216.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/controller">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>controller</OriginalElement>
+          <nodes>
+            <node x="" y="">controller.Controller</node>
+            <node x="" y="">controller.TableListener</node>
+            <node x="" y="">controller.ChannelMenuListener</node>
+            <node x="" y="">controller.ChannelJlistListener</node>
+            <node x="" y="">controller.XmlParseWorker</node>
+            <node x="" y="">controller.AutomaticRefresher</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="286.55555555555566" y="384.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/emptyChannelXml.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/channelXml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3345">
+          <caret line="223" column="5" selection-start-line="223" selection-start-column="5" selection-end-line="223" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/episodeXml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ParseChannelsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/badChannelFormatXml.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/ParseEpsiodesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/ChannelListPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/TablePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="75" column="94" lean-forward="true" selection-start-line="75" selection-start-column="94" selection-end-line="75" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1980#3155#0" expanded="true" />
+            <element signature="e#3154#3155#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/XmlParseWorker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="35" column="94" lean-forward="true" selection-start-line="35" selection-start-column="94" selection-end-line="35" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1116">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/AutomaticRefresher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="37" column="67" selection-start-line="37" selection-start-column="67" selection-end-line="37" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/TableModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/ChannelMenuListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/TableListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/RadioModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Main">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Main</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">Main</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-537.5" y="-18.5" />
+          <SelectedNodes>
+            <node>Main</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/david/IdeaProjects/RadioInfo/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="815.0" y="273.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Flash/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Flash</ID>
+          <OriginalElement />
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>PRIVATE</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="150.0" y="621.201171875">com</node>
+            <node x="78.2607142857143" y="254.201171875">controller</node>
+            <node x="0.0" y="547.201171875">netscape</node>
+            <node x="298.0" y="621.201171875">junit</node>
+            <node x="332.0" y="547.201171875">oracle</node>
+            <node x="0.0" y="695.201171875">org</node>
+            <node x="591.0" y="621.201171875">sun</node>
+            <node x="142.0" y="695.201171875">jdk</node>
+            <node x="492.0" y="437.201171875">META-INF</node>
+            <node x="40.0" y="135.201171875">view</node>
+            <node x="283.0" y="437.201171875">groovyjarjarasm</node>
+            <node x="446.0" y="621.201171875">java</node>
+            <node x="171.0" y="547.201171875">groovy</node>
+            <node x="0.0" y="621.201171875">javax</node>
+            <node x="76.75357142857142" y="6.201171875">model</node>
+            <node x="30.0" y="437.201171875">groovyjarjarcommonscli</node>
+            <node x="488.0" y="547.201171875">javafx</node>
+            <node x="144.7607142857143" y="363.201171875">Main</node>
+            <node x="304.7607142857143" y="15.867838541666664">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="view" target="model">
+              <point x="1.4210854715202004E-14" y="-14.5" />
+              <point x="91.50000000000001" y="105.201171875" />
+              <point x="127.60357142857143" y="105.201171875" />
+              <point x="-5.6499999999999915" y="14.5" />
+            </edge>
+            <edge source="view" target="view">
+              <point x="-29.428571428571416" y="14.5" />
+              <point x="62.071428571428584" y="194.201171875" />
+              <point x="10.0" y="194.201171875" />
+              <point x="10.0" y="149.701171875" />
+              <point x="-51.5" y="-0.0" />
+            </edge>
+            <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+              <point x="0.0" y="14.5" />
+              <point x="387.7607142857143" y="74.86783854166666" />
+              <point x="274.7607142857143" y="74.86783854166666" />
+              <point x="274.7607142857143" y="30.367838541666664" />
+              <point x="-83.0" y="-0.0" />
+            </edge>
+            <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+              <point x="52.0" y="14.5" />
+              <point x="186.0" y="496.201171875" />
+              <point x="0.0" y="496.201171875" />
+              <point x="0.0" y="444.451171875" />
+              <point x="-104.0" y="-7.25" />
+            </edge>
+            <edge source="view" target="controller">
+              <point x="44.142857142857125" y="14.5" />
+              <point x="-8.125" y="-14.5" />
+            </edge>
+            <edge source="Main" target="controller">
+              <point x="-18.75" y="-14.5" />
+              <point x="163.5107142857143" y="343.201171875" />
+              <point x="169.2607142857143" y="343.201171875" />
+              <point x="26.0" y="14.5" />
+            </edge>
+            <edge source="controller" target="view">
+              <point x="-56.875" y="-14.5" />
+              <point x="86.3857142857143" y="234.201171875" />
+              <point x="91.5" y="234.201171875" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="controller" target="controller">
+              <point x="0.0" y="14.5" />
+              <point x="143.2607142857143" y="323.201171875" />
+              <point x="38.2607142857143" y="323.201171875" />
+              <point x="38.2607142857143" y="259.03450520833337" />
+              <point x="-65.0" y="-9.666666666666657" />
+            </edge>
+            <edge source="controller" target="model">
+              <point x="8.125" y="-14.5" />
+              <point x="151.3857142857143" y="234.201171875" />
+              <point x="153.5" y="234.201171875" />
+              <point x="153.5" y="115.201171875" />
+              <point x="150.20357142857142" y="115.201171875" />
+              <point x="16.950000000000017" y="14.5" />
+            </edge>
+            <edge source="model" target="model">
+              <point x="-39.55" y="14.5" />
+              <point x="93.70357142857142" y="65.201171875" />
+              <point x="46.75357142857142" y="65.201171875" />
+              <point x="46.75357142857142" y="20.701171875" />
+              <point x="-56.5" y="-0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9629629629629629" x="-348.11538461538464" y="229.23076923076925" />
+          <SelectedNodes>
+            <node>META-INF</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/david/IdeaProjects/RadioInfo/src/model;C:/Users/david/IdeaProjects/RadioInfo/src/view;C:/Users/david/IdeaProjects/RadioInfo/src/controller;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/model;C:/Users/david/IdeaProjects/RadioInfo/src/view;C:/Users/david/IdeaProjects/RadioInfo/src/controller;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9" x="176.1111111111111" y="224.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-RadioInfo">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-RadioInfo</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-RadioInfo</node>
+            <node x="" y="">lib-JUnit5.2</node>
+            <node x="" y="">lib-JUnit4</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="66.5" y="125.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Test dependencies</Category>
+            <Category>Libraries</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/model">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>model</OriginalElement>
+          <nodes>
+            <node x="593.1785714285716" y="808.0">controller.Controller</node>
+            <node x="668.442674512987" y="542.0">view.RadioGUI</node>
+            <node x="875.1391030844155" y="284.0">model.TableModel</node>
+            <node x="352.375" y="273.0">model.Channel</node>
+            <node x="367.4374999999998" y="0.0">model.RadioProgram</node>
+            <node x="10.5" y="284.0">model.ParseScheduleXml</node>
+            <node x="108.5" y="564.0">model.RadioModel</node>
+            <node x="366.67857142857144" y="441.0">model.ParseChannelXml</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="controller.Controller" target="model.RadioProgram">
+              <point x="96.0" y="-70.0" />
+              <point x="801.1785714285716" y="788.0" />
+              <point x="1092.6391030844156" y="788.0" />
+              <point x="1092.6391030844156" y="203.0" />
+              <point x="544.0284090909089" y="203.0" />
+              <point x="84.09090909090907" y="91.5" />
+            </edge>
+            <edge source="model.RadioModel" target="model.ParseChannelXml">
+              <point x="84.37499999999994" y="-81.0" />
+              <point x="417.87499999999994" y="522.0" />
+              <point x="430.67857142857144" y="522.0" />
+              <point x="-64.0" y="25.5" />
+            </edge>
+            <edge source="controller.Controller" target="model.Channel">
+              <point x="-32.0" y="-70.0" />
+              <point x="673.1785714285716" y="788.0" />
+              <point x="657.942674512987" y="788.0" />
+              <point x="657.942674512987" y="421.0" />
+              <point x="735.8035714285714" y="421.0" />
+              <point x="139.42857142857144" y="59.0" />
+            </edge>
+            <edge source="controller.Controller" target="model.RadioModel">
+              <point x="-64.0" y="-70.0" />
+              <point x="641.1785714285716" y="778.0" />
+              <point x="445.99999999999994" y="778.0" />
+              <point x="112.49999999999994" y="81.0" />
+            </edge>
+            <edge source="model.RadioModel" target="model.RadioProgram">
+              <point x="-196.87500000000006" y="-81.0" />
+              <point x="136.62499999999994" y="522.0" />
+              <point x="0.0" y="522.0" />
+              <point x="0.0" y="213.0" />
+              <point x="375.84659090909076" y="213.0" />
+              <point x="-84.09090909090907" y="91.5" />
+            </edge>
+            <edge source="view.RadioGUI" target="model.RadioProgram">
+              <point x="75.74999999999997" y="-103.0" />
+              <point x="895.692674512987" y="522.0" />
+              <point x="864.6391030844155" y="522.0" />
+              <point x="864.6391030844155" y="233.0" />
+              <point x="493.5738636363634" y="233.0" />
+              <point x="33.636363636363626" y="91.5" />
+            </edge>
+            <edge source="model.RadioModel" target="model.Channel">
+              <point x="28.124999999999943" y="-81.0" />
+              <point x="361.62499999999994" y="522.0" />
+              <point x="348.3192302489176" y="522.0" />
+              <point x="348.3192302489176" y="421.0" />
+              <point x="387.2321428571429" y="421.0" />
+              <point x="-209.1428571428571" y="59.0" />
+            </edge>
+            <edge source="model.ParseChannelXml" target="model.Channel">
+              <point x="0.0" y="-25.5" />
+              <point x="494.67857142857144" y="421.0" />
+              <point x="526.6607142857143" y="421.0" />
+              <point x="-69.71428571428567" y="59.0" />
+            </edge>
+            <edge source="view.RadioGUI" target="model.Channel">
+              <point x="-75.75" y="-103.0" />
+              <point x="744.192674512987" y="522.0" />
+              <point x="785.4739921536794" y="522.0" />
+              <point x="785.4739921536794" y="421.0" />
+              <point x="805.5178571428571" y="421.0" />
+              <point x="209.1428571428571" y="59.0" />
+            </edge>
+            <edge source="model.RadioModel" target="model.ParseScheduleXml">
+              <point x="-84.37500000000006" y="-81.0" />
+              <point x="249.12499999999994" y="512.0" />
+              <point x="168.93749999999977" y="512.0" />
+              <point x="168.93749999999977" y="421.0" />
+              <point x="240.75" y="421.0" />
+              <point x="76.75" y="48.0" />
+            </edge>
+            <edge source="model.TableModel" target="model.RadioProgram">
+              <point x="-51.75" y="-48.0" />
+              <point x="926.8891030844155" y="223.0" />
+              <point x="510.39204545454527" y="223.0" />
+              <point x="50.45454545454544" y="91.5" />
+            </edge>
+            <edge source="model.Channel" target="model.RadioProgram">
+              <point x="-122.0" y="-59.0" />
+              <point x="474.375" y="253.0" />
+              <point x="459.9374999999998" y="253.0" />
+              <point x="0.0" y="91.5" />
+            </edge>
+            <edge source="model.ParseScheduleXml" target="model.RadioProgram">
+              <point x="0.0" y="-48.0" />
+              <point x="164.0" y="233.0" />
+              <point x="409.4829545454544" y="233.0" />
+              <point x="-50.45454545454544" y="91.5" />
+            </edge>
+            <edge source="controller.Controller" target="view.RadioGUI">
+              <point x="0.0" y="-70.0" />
+              <point x="705.1785714285716" y="788.0" />
+              <point x="718.942674512987" y="788.0" />
+              <point x="-101.0" y="103.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="31.88888888888914" y="243.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ParseChannelXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#2984#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/ChannelJlistListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/RadioProgram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#1569#0" expanded="true" />
+            <element signature="e#1632#1633#0" expanded="true" />
+            <element signature="e#1678#1679#0" expanded="true" />
+            <element signature="e#1714#1715#0" expanded="true" />
+            <element signature="e#1748#1749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/ParseScheduleXml.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="119" column="56" selection-start-line="119" selection-start-column="56" selection-end-line="119" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view/RadioGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-750">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>RadioInfo:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>RadioInfo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
